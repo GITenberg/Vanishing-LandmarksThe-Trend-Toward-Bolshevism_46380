@@ -1,0 +1,29 @@
+_repo: Vanishing-LandmarksThe-Trend-Toward-Bolshevism_46380
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46380-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Shaw, Leslie M. (Leslie Mortier)
+    alias: Shaw, Leslie Mortier
+    birthdate: 1848
+    deathdate: 1932
+    gutenberg_agent_id: '43751'
+    url: http://www.gutenberg.org/2009/agents/43751
+description: ''
+gutenberg_issued: '2014-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46380'
+  lccn: '20000108'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government'
+- !lcsh 'United States -- Social conditions'
+- !lcc 'HN'
+title: 'Vanishing Landmarks: The Trend Toward Bolshevism'
+url: http://www.gutenberg.org/ebooks/46380
